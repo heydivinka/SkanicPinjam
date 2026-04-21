@@ -1,0 +1,9 @@
+[build]
+  builder = "nixpacks"
+  phpVersion = "8.3"
+
+[php]
+  extensions = ["gd", "zip", "intl", "pdo", "pdo_mysql", "ctype", "fileinfo", "mbstring", "openssl", "tokenizer", "xml", "simplexml", "dom", "zip", "zlib"]
+
+[deploy]
+  startCommand = "vendor/bin/heroku-php-apache2 public/"
