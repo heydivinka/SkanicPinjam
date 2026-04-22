@@ -1,6 +1,6 @@
 # 🏫 **SkanicPinjam** - School Inventory & Borrowing System
 
-![Screenshot](https://via.placeholder.com/1200x600/e0f2fe/10b981?text=SkanicPinjam+Dashboard)
+![Screenshot]((https://wppsakoaoqyeoldqvsoe.supabase.co/storage/v1/object/sign/Project/Screenshot%202026-04-22%20081355.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lZTZjOTYxMi0yNDMyLTRiMjktOTUwYy1iODQ0YThlMzVjNjAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJQcm9qZWN0L1NjcmVlbnNob3QgMjAyNi0wNC0yMiAwODEzNTUucG5nIiwiaWF0IjoxNzc2ODIwNDc3LCJleHAiOjQ5MzA0MjA0Nzd9.EVAtsKpYNdIb65Hd6eiKJRGCgen3dxD7sQAJjDYyp74))
 
 Modern Laravel + React + Inertia.js app for school asset management.
 
